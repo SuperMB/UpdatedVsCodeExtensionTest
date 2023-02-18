@@ -6,5 +6,10 @@
     "VerilogFolders": [
         "/workspaces/codespace/Verilog"
     ],
+    "Tutorials":[
+        ["Step1_1", "Using an automation"],
+        ["Step2_2", "Running Arctic Fox"],
+        ["Step3_3", "Creating an automation"]
+    ],
     "PathToVivadoProject": null
 }
